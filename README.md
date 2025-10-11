@@ -21,7 +21,7 @@ Welcome to my GitHub! I'm a Computer Science student at Rutgers University with 
 * PostgreSQL, Git, GitHub, Jupyter Notebooks, Trello
 * Scikit-learn, Supabase, Firebase, OAuth 2.0, SQL Server
 
-## 🛠️ Selected Projects
+## 🛠️ Projects
 
 ### 🔗 **Bridger – LinkedIn Connection Automater**
 
@@ -39,6 +39,12 @@ A full-stack grocery comparison tool that scrapes, filters, and displays food it
 Analyzes supply chain and product data to assign eco-footprint scores, helping users make environmentally conscious choices.
 
 ## 💼 Experience
+
+### 🧠 Software Engineer Intern @ Rutgers University
+* Contributing to the official myRutgers web app serving 132,000+ students by developing new features and
+modernizing legacy components.
+* Assisting in development using React, Node.js, and SQL, focusing on responsive design and API integration.
+* Enhancing user experience by identifying and fixing accessibility issues to improve usability and compliance.
 
 ### 🧠 Software Engineer Intern @ VoiceBotics AI
 
