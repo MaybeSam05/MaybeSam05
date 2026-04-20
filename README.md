@@ -2,13 +2,13 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">About Me:</h3>
 
-<p align="left">🔭 I’m working as Software Engineer Intern @ GEICO<br>📚 I'm a student @ Rutgers University<br></p>
+<p align="left"> - I’m working as Software Engineer Intern @ GEICO<br> - I'm a student @ Rutgers University<br></p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">Language and tools:</h3>
 
 ###
 
@@ -16,7 +16,7 @@
 
 
 ###
-<h3 align="left">🔥   My Stats </h3>
+<h3 align="left">My Stats:</h3>
 
 ![](https://streak-stats.demolab.com/?user=MaybeSam05&theme=dark&hide_border=false)
 
