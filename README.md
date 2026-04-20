@@ -1,67 +1,67 @@
-# Hey there, I'm Samarth! 👋
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
 
-Welcome to my GitHub! I'm a Computer Science student at Rutgers University with a passion for building practical, real-world solutions using software engineering, automation, and AI. Whether it's streamlining LinkedIn networking or analyzing environmental impact through AI, I thrive at the intersection of innovation and impact. 🚀💡
+###
 
-## 💼 About Me
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+</div>
 
-* 🎓 Sophomore CS major @ Rutgers University
-* 🤖 Passionate about automation, AI, and full-stack development
-* 🌍 Excited by projects that combine tech with real-world problem-solving
-* 🎾 Apart from tech, I play tennis, collect Legos, and love to watch action/comedy movies
+###
 
-## 🧰 Tools & Technologies
-### 💻 Languages
-- Python, SQL, R
-- C, C++, Java
-- HTML, CSS, JavaScript
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+</div>
 
-### ⚙️ Frameworks & Tools
+###
 
-* React, FastAPI, Flask, Node.js, Jinja, Axios, Selenium
-* PostgreSQL, Git, GitHub, Jupyter Notebooks, Trello
-* Scikit-learn, Supabase, Firebase, OAuth 2.0, SQL Server
+<h1 align="center">Hello, I'm Samarth 👋</h1>
 
-## 🛠️ Projects
+###
 
-### 🔗 **Bridger – LinkedIn Connection Automater**
+<h3 align="left">👩‍💻  About Me</h3>
 
-*Python, FastAPI, React, PostgreSQL, Selenium*
-Automates LinkedIn networking by generating tailored emails through LLM prompts and structured OCR-based data scraping. Reduced outreach time by 90%.
+###
 
-### 🛒 **ShopWise – Smart Grocery Search Platform**
+<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
 
-*Python, Flask, Jinja, BeautifulSoup*
-A full-stack grocery comparison tool that scrapes, filters, and displays food item prices and images across multiple listings.
+###
 
-### 🌱 **AI Environmental Impact Analyzer**
+<h3 align="left">🛠 Language and tools</h3>
 
-*Node.js, React, OpenAI API, Axios*
-Analyzes supply chain and product data to assign eco-footprint scores, helping users make environmentally conscious choices.
+###
 
-## 💼 Experience
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+</div>
 
-### 🧠 Software Engineer Intern @ Rutgers University
-* Contributing to the official myRutgers web app serving 132,000+ students by developing new features and
-modernizing legacy components.
-* Assisting in development using React, Node.js, and SQL, focusing on responsive design and API integration.
-* Enhancing user experience by identifying and fixing accessibility issues to improve usability and compliance.
+###
 
-### 🧠 Software Engineer Intern @ VoiceBotics AI
+<h3 align="left">🔥   My Stats :</h3>
 
-* Created React.js admin dashboards integrated with PostgreSQL
-* Automated structured data processing for SQL storage
-* Wrote PHP scripts to dynamically fetch information onto WordPress
+###
 
-### 🤖 Software Engineer Intern @ Prospector AI
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
-* Built multithreaded Python data pipelines using Zillow API
-* Built GPT-powered outreach automation tools and virtual staging pipelines
-* Designed email automation systems using smtplib and Gmail API
-
-## 📫 Contact Me
-
-* 🌐 [LinkedIn](https://www.linkedin.com/in/samarth-verma2005/)
-* 💻 [GitHub](https://github.com/MaybeSam05)
-* 📧 Email: [sv865@scarletmail.rutgers.edu](mailto:sv865@scarletmail.rutgers.edu)
-
-Let’s build something awesome together! 💥
+###
